@@ -1,0 +1,15 @@
+my_external_tree/board/my_company/my_board/qemu_ssh_key/my_qemu_ssh_key.pub
+my_external_tree/board/my_company/my_board/qemu_ssh_key/my_qemu_ssh_key
+my_external_tree/board/my_company/my_board/fs-overlay/root/.ssh/authorized_keys
+*.res
+*.rc
+# qtcreator generated files
+*.pro.user*
+CMakeLists.txt.user*
+*.img
+*.bkp
+*.ko
+*.mod
+*.autosave
+BuildrootBCN_repo/myDefconfigNonDefault
+BuildrootBCN_repo/myLinuxDefconfigNonDefault
